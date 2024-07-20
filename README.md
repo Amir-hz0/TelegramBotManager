@@ -1,12 +1,3 @@
-Here's a suggested name for your repository and the `README.md` file for your project:
-
-### Repository Name:
-**TelegramBotManager**
-
----
-
-### README.md
-
 ```markdown
 # TelegramBotManager
 
@@ -14,11 +5,11 @@ TelegramBotManager is a feature-rich Telegram bot designed to manage user intera
 
 ## Features
 
-- **User Management**: Add, remove, and list users.
-- **Media Handling**: Send and receive text, images, files, audio, and voice messages.
-- **Inline Keyboard Support**: Interactive inline buttons for quick user responses.
-- **Admin Dashboard**: Dedicated commands and features for administrators.
-- **Product Information**: Retrieve and display product information and lists.
+- User Management: Add, remove, and list users.
+- Media Handling: Send and receive text, images, files, audio, and voice messages.
+- Inline Keyboard Support: Interactive inline buttons for quick user responses.
+- Admin Dashboard: Dedicated commands and features for administrators.
+- Product Information: Retrieve and display product information and lists.
 
 ## Commands
 
