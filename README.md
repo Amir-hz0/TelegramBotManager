@@ -36,7 +36,7 @@ TelegramBotManager is a feature-rich Telegram bot designed to manage user intera
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/TelegramBotManager.git
+   git clone https://github.com/Amir-hz0/TelegramBotManager.git
    cd TelegramBotManager
    ```
 
