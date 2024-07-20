@@ -1,4 +1,4 @@
-```markdown
+
 # TelegramBotManager
 
 TelegramBotManager is a feature-rich Telegram bot designed to manage user interactions, send messages, and handle various media files. This bot includes admin functionalities for managing users and provides a robust set of commands for both regular users and administrators.
@@ -78,8 +78,3 @@ Feel free to fork this repository, create a feature branch, and submit pull requ
 ## License
 
 This project is licensed under the MIT License.
-```
-
----
-
-Feel free to adjust the repository name and `README.md` content to better suit your preferences or specific project details.
